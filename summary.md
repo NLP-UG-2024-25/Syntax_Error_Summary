@@ -1,10 +1,20 @@
 **syntax**
+
 **Introducing English Linguistics: Chapter 5 English Syntax Summary**
 # Marysia's Part
 
 # Przemek's Part
 
 # Julia's Part
+In his chapter on _clauses, sentences, and clause functions_, Charles F. Meyer provides a foundation for English syntax through an examination of how **clauses** and **sentences** are constructed and how they function in larger syntactic structures. He defines clauses and sentences not only in terms of their **structural composition** but also in terms of their **function** in discourse.
+
+A **clause** is a syntactic unit that minimally consists of **a predicator** and **a subject**. The predicator, as realised by a verb phrase, is to a great extent responsible for the argument structure of the clause—that is, the number and kinds of other clause functions that can co-occur. For instance, the intransitive verb _died_ requires only a subject, but the ditransitive verb _gave_ requires a subject, a direct object, and an indirect object. Clause functions are therefore highly reliant on the **lexical properties** of the main verb. In addition to the predicator, Meyer recognizes several core clause functions: **subject**, **object** (direct or indirect), **complement** (subject or object), and **adverbial**. These functions are not only identified by their syntactic position—e.g., subjects usually precede the verb—but also by other linguistic processes such as passivization, which can transform a direct object into the subject of a passive sentence.
+
+Meyer then identifies two general types of clauses: **main clauses** and **subordinate clauses**. A main clause will bear a **finite verb** (marked for tense) and may be used independently. Subordinate clauses, by contrast, cannot be independent and are either grammatically or semantically dependent on a main clause. Subordination is marked either by a **subordinating conjunction** (_when_, _if_, _because_) or by the presence of a **non-finite verb** (_thinking_, _taken_, _to choose_). He also classifies subordinate clauses into **non-finite clauses** (containing participles or infinitives), **finite clauses introduced by conjunctions**, **relative clauses** (introduced by _who_, _which_, _that_, etc.), and **verbless clauses**, which lack an overt verb but imply one contextually.
+
+The chapter also addresses the syntactic process of **coordination**, in which structurally parallel elements are linked by _and_, _or_, or _but_. Unlike subordination, coordination combines equal syntactic units. Meyer illustrates coordination of noun phrases, verb phrases, and clauses. He also discusses such phenomena as **ellipsis** and **gapping**, where reiterated material in a second coordinated unit is omitted for economy. For example, in "muggers might lurk and accidents [ ] wait to happen," the auxiliary _might_ is understood in the second conjunct.
+
+Meyer emphasizes throughout the discussion the importance of observing how syntactic structure and grammatical functions interact. His discussion elicits both form (e.g., verb forms and types of clauses) and function (e.g., subject, object) in describing how English clauses function in sentences. The section gives students a theoretical and practical foundation for identification and analysis of complicated sentence structures in English.
 
 # Maria's Part
 In his discussion of clause functions, Charles F. Meyer offers a thorough analysis of their occurrence in English, examining the interactions between different syntactic elements inside a clause's structure.  Meyer begins by observing that, unlike pronouns which are marked morphologically for their grammatical roles (for instance, _I_ as the subject and _me_ as the object), noun phrases in English do not have such distinct indicators. Therefore, a noun phrase's functional role **must** be inferred from its syntactic location, its relationship to the verb (the predicator), and its behavior during transformational processes like **passivization** and **subject–verb agreement**.
