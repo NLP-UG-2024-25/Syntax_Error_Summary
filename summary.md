@@ -18,9 +18,11 @@ Apart from the **primary auxiliaries** there are also two types of **modal auxil
 
 Considering the restriction that the **verb phrase** consists of only an **obligatory lexical verb** and one or more **optional auxiliary verbs**, in a tree diagram of a sentence *"I called my mother"* there would be **two** separate noun phrases (*"I"* and *"my mother"*) and **one** verb phrase (*"called"*). However, there are alternative views on the matter, considering *"called my mother"* to be a **single unit**, because it can be substituted with the pro-verb *do*. For a question: *"Did you call your mother?"*, *"Yes, I *did*"* is a possible answer. Authors of that view also provide additional evidence for including other elements such as **adverb phrases** in the **verb phrase**, presenting an example: *only*. It may become a part of a **noun phrase**, as in "The *only* one", so it should also become a part of a **verb phrase** in "can *only* choose", making the verb phrase *discontinuous* if it wasn't allowed.
 
-<img src="pic1.png" />
+<img src="pic1.png" width="400" height="250"/>
+<p>The original tree diagram</p>
 
-<img src="pic2.png" />
+<img src="pic2.png" width="400" height="250"/>
+<p>The alternative view on the tree diagram</p>
 
 Adverbs are a very **heterogenous form class**. Many of them and with a suffix ***-ly***, introducing a first class, but it's not a rule. **Time adverbs** like *momentarily* or *recently* end with that suffix, but *now* and *then* don't. Moreover, words like *lovely* are not **adverbs** but **adjectives**, but they also have a suffix *-ly*. Other adverb-types are: **maanner adverbs** (*skillfully* - *in a skillful manner*) and **content disjuncts** (*inevitably*), adverbs used by a speaker to omment on the content of their speech. It's common for adverbs to be one word in length, but they can be **intensified** by the same adverbs used to intensify adjectives: *very*, *somewhat*, *quite*. **Conjunctive adverbs** (*therefore*, *however*) appear close to the start of a clause and they establish links between parts of text.
 
