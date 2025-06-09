@@ -7,7 +7,8 @@ Chapter five begins by shifting the focus from pragmatics to **syntax**, which d
 - sentences, 
 - clauses,
 - phrases, 
-- and words. 
+- and words.
+ 
 Constituents can be either **immediate** (larger groupings like subject and predicate) or **ultimate** (individual words). To test whether a group of words forms a constituent, linguists apply methods such as **insertion** (placing an adverb like *probably*), **substitution** (e.g. using pronouns) and **movement** (reordering parts of a sentence). These diagnostics help reveal the internal structure of language. The chapter contrasts **notional** definitions, which rely on meaning (e.g. a noun is a “thing”), with **formal** definitions, which focus on structure, such as suffixes or syntactic position. Formal criteria are preferred in modern linguistics due to their consistency and reliability. This is illustrated through examples like Lewis Carroll’s *Jabberwocky*, where readers assign word classes not through meaning but through form. English syntax exhibits both **linear** and **hierarchical** structure, and ambiguity can arise depending on how words are grouped—for instance, *foreign language specialist* may have multiple interpretations.
 
 Constituents are described by both their **form** (such as noun phrase, verb phrase) and **function** (such as subject, object, complement). A clear example is found in *"The child is healthy"*, where *healthy* is an adjective phrase functioning as a subject complement. The structure of **noun phrases (NPs)** is then explored in detail. A noun phrase typically includes a **head noun or pronoun**, optionally preceded by **determiners** (e.g. *the*, *every*) and **adjective phrases**, and followed by **prepositional phrases** or **relative clauses**. Nouns themselves may be **countable** (*tables*, *children*), **uncountable** (*furniture*, *freedom*), or irregular. Morphological markers such as plural endings, suffixes like *-ion* or *-ity*, and historical borrowings help to classify them. **Pronouns**, which also act as NP heads, carry distinctions absent in nouns — such as **person**, **case**, **number**, and **reflexive/possessive** forms (*I/me*, *she/her*, *mine*, *ourselves*). Some pronouns, like *you*, are used in both singular and plural contexts, though regional variants like *y’all* or *youse* help distinguish them. Noun phrases frequently contain **embedded** structures, and repeated embedding gives rise to **recursion** — a key property of natural language that allows the nesting of one phrase within another.
@@ -23,9 +24,11 @@ Apart from the **primary auxiliaries** there are also two types of **modal auxil
 
 Considering the restriction that the **verb phrase** consists of only an **obligatory lexical verb** and one or more **optional auxiliary verbs**, in a tree diagram of a sentence *"I called my mother"* there would be **two** separate noun phrases (*"I"* and *"my mother"*) and **one** verb phrase (*"called"*). However, there are alternative views on the matter, considering *"called my mother"* to be a **single unit**, because it can be substituted with the pro-verb *do*. For a question: *"Did you call your mother?"*, *"Yes, I *did*"* is a possible answer. Authors of that view also provide additional evidence for including other elements such as **adverb phrases** in the **verb phrase**, presenting an example: *only*. It may become a part of a **noun phrase**, as in "The *only* one", so it should also become a part of a **verb phrase** in "can *only* choose", making the verb phrase *discontinuous* if it wasn't allowed.
 
-<img src="pic1.png" />
+<img src="pic1.png" width="400" height="250"/>
+<p>The original tree diagram</p>
 
-<img src="pic2.png" />
+<img src="pic2.png" width="400" height="250"/>
+<p>The alternative view on the tree diagram</p>
 
 Adverbs are a very **heterogenous form class**. Many of them and with a suffix ***-ly***, introducing a first class, but it's not a rule. **Time adverbs** like *momentarily* or *recently* end with that suffix, but *now* and *then* don't. Moreover, words like *lovely* are not **adverbs** but **adjectives**, but they also have a suffix *-ly*. Other adverb-types are: **maanner adverbs** (*skillfully* - *in a skillful manner*) and **content disjuncts** (*inevitably*), adverbs used by a speaker to omment on the content of their speech. It's common for adverbs to be one word in length, but they can be **intensified** by the same adverbs used to intensify adjectives: *very*, *somewhat*, *quite*. **Conjunctive adverbs** (*therefore*, *however*) appear close to the start of a clause and they establish links between parts of text.
 
